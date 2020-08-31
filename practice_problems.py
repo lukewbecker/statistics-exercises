@@ -6,10 +6,10 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 two_plus_four = 2+4
-two_plus_four
+print(two_plus_four)
 
 
 simple_math = 2*2
-simple_math
+print(simple_math)
 
 
